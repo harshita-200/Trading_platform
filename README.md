@@ -23,4 +23,5 @@ Run Frontend
 	- do "npm i"
 	- npm run dev
 
-Deployed link:https://trading-platform-opal.vercel.app/(only frontend,i couldnt deploy backend for free)
+Deployed link:https://trading-platform-opal.vercel.app/    
+(only frontend,i couldnt deploy backend for free)
